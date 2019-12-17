@@ -1,0 +1,3 @@
+%{
+  "exos": {:hex, :exos, "1.0.3", "c05e5196926e3dbeb1a005b1c5a940f00c2f5a1814b8fedd2a60c446bccf7ec3", [:mix], [], "hexpm"},
+}
